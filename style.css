@@ -175,3 +175,57 @@ width: 100%;
     text-align: center;
 }
 }
+
+
+
+@media (min-width: 2500px) {
+.m-1 {
+        width: 30%;
+    height: 299px;
+    border: 3px solid black;
+    background-color: gray;
+}
+.Chicken-h3 {
+    border: 2px solid black;
+    background-color: #ff9999;
+    width: 70px;
+    float: right;
+    margin-top: -1px;
+    text-align: center;
+}
+.m-2 {
+    width: 30%;
+    height: 299px;
+    margin-left: 890px;
+    margin-top: -299px;
+    border: 3px solid black;
+    background-color: gray;
+}
+.Beef-h3 {
+    color: white;
+    border: 2px solid black;
+    background-color: #cc0000;
+    width: 50px;
+    float: right;
+    margin-top: -37px;
+    text-align: center;
+}
+/*=========================================*/
+.m-3 {
+    width: 33.33%;
+    height: 301px;
+    margin-top: -300px;
+    border: 3px solid black;
+    background-color: gray;
+    margin-left: 1759px;
+}
+.Sushi-h3 {
+    color: black;
+    border: 2px solid black;
+    background-color: #ffff99;
+    width: 50px;
+    float: right;
+    margin-top: -38px;
+    text-align: center;
+}
+}
