@@ -14,6 +14,9 @@
   color: blue;
   text-decoration: none;
 }
+#chicken, #beef, #sushi {
+    text-align: center;
+}
 @media (max-width: 575px) {
    .row > div {
     margin-top: 30px;
