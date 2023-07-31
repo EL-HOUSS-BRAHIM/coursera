@@ -5,6 +5,9 @@
   border: 2px solid black;
   background-color: gray;
 }
+.navbar-brand {
+      margin-right: auto;
+    }
 @media (min-width: 1200px) {
   .row > div {
     margin-left: 75px;
