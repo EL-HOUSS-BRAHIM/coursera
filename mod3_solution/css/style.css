@@ -1,0 +1,26 @@
+.row {
+  margin-bottom: 15px;
+}
+.row > div {
+  border: 2px solid black;
+  background-color: gray;
+}
+@media (min-width: 1200px) {
+  .row > div {
+    margin-left: 75px;
+}}
+@media (max-width: 576px) {
+   .row > div {
+    margin-top: 30px;
+}}
+@media (min-width:768px) and (max-width: 991px) {
+    .row > div {
+    margin-left: 70px;
+    margin-bottom: 20px;
+    width: 267px;
+}}
+@media (min-width:992px) and (max-width: 1199px) {
+    .row > div {
+    margin-left: 60px;
+    margin-bottom: 20px;
+}}
