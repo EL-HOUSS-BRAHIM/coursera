@@ -13,7 +13,7 @@
    .row > div {
     margin-top: 30px;
 }}
-@media (min-width:576px) and (max-width: 991px) {
+@media (min-width:577px) and (max-width: 991px) {
     .row > div {
     margin-left: 70px;
     margin-bottom: 20px;
