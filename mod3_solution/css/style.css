@@ -15,9 +15,9 @@
 }}
 @media (min-width:577px) and (max-width: 991px) {
     .row > div {
-    margin-left: 70px;
+    margin-left: 20px;
     margin-bottom: 20px;
-    width: 267px;
+    width: 240px;
 }}
 @media (min-width:992px) and (max-width: 1199px) {
     .row > div {
