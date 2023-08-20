@@ -1,0 +1,2 @@
+1 https://coursera-jhu-default-rtdb.firebaseio.com/menu_items.json?category=
+2 https://coursera-jhu-default-rtdb.firebaseio.com/categories.json
